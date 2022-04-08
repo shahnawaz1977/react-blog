@@ -6,7 +6,7 @@ function Home(){
     
     return(
         <div>
-            <h1>Home Page</h1>
+            <h1>Home Page after deploy again</h1>
             <Button label="Click me!" styleClass="btn-primary" />
         </div>
     )
